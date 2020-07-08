@@ -1,0 +1,36 @@
+body{
+background-color: lightcoral;
+}
+h1 {color: black ;}
+h3 {color:  black ;}
+h3 {color:  black ;}
+h2 {color: black ;}
+hr {
+border-color: lightgrey;
+border-style: none ;
+border-top-style: dotted ;
+border-width: 7px;
+width: 10%;}
+
+.circle{
+border-radius: 50%;
+
+}
+
+a:link {
+  color: red;
+}
+
+
+a:visited {
+  color: #05dfd7;
+}
+
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}
